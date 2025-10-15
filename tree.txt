@@ -1,0 +1,137 @@
+├── .expo
+    ├── web
+        ├── cache
+            ├── production
+                ├── images
+                    ├── android-adaptive-foreground
+                        ├── android-adaptive-foreground-ac432179481a47d57ea89e60d25d99b65f8651bef8bb7e9c73680ca0226c332f-cover-transparent
+                            ├── icon_108.png
+                            ├── icon_162.png
+                            ├── icon_216.png
+                            ├── icon_324.png
+                            ├── icon_432.png
+                    ├── android-standard-circle
+                        ├── android-standard-circle-ac432179481a47d57ea89e60d25d99b65f8651bef8bb7e9c73680ca0226c332f-cover-#000000
+                            ├── icon_144.png
+                            ├── icon_192.png
+                            ├── icon_48.png
+                            ├── icon_72.png
+                            ├── icon_96.png
+                    ├── android-standard-square
+                        ├── android-standard-square-ac432179481a47d57ea89e60d25d99b65f8651bef8bb7e9c73680ca0226c332f-cover-#000000
+                            ├── icon_144.png
+                            ├── icon_192.png
+                            ├── icon_48.png
+                            ├── icon_72.png
+                            ├── icon_96.png
+                    ├── splash-android
+                        ├── splash-android-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855-contain
+├── android
+    ├── app
+        ├── src
+            ├── debug
+                ├── AndroidManifest.xml
+            ├── debugOptimized
+                ├── AndroidManifest.xml
+            ├── main
+                ├── java
+                    ├── com
+                        ├── anonymous
+                            ├── BarrierOSLite
+                                ├── MainActivity.kt
+                                ├── MainApplication.kt
+                ├── res
+                    ├── drawable
+                        ├── ic_launcher_background.xml
+                        ├── rn_edit_text_material.xml
+                    ├── drawable-hdpi
+                    ├── drawable-mdpi
+                    ├── drawable-xhdpi
+                    ├── drawable-xxhdpi
+                    ├── drawable-xxxhdpi
+                    ├── mipmap-anydpi-v26
+                        ├── ic_launcher.xml
+                        ├── ic_launcher_round.xml
+                    ├── mipmap-hdpi
+                        ├── ic_launcher.webp
+                        ├── ic_launcher_foreground.webp
+                        ├── ic_launcher_round.webp
+                    ├── mipmap-mdpi
+                        ├── ic_launcher.webp
+                        ├── ic_launcher_foreground.webp
+                        ├── ic_launcher_round.webp
+                    ├── mipmap-xhdpi
+                        ├── ic_launcher.webp
+                        ├── ic_launcher_foreground.webp
+                        ├── ic_launcher_round.webp
+                    ├── mipmap-xxhdpi
+                        ├── ic_launcher.webp
+                        ├── ic_launcher_foreground.webp
+                        ├── ic_launcher_round.webp
+                    ├── mipmap-xxxhdpi
+                        ├── ic_launcher.webp
+                        ├── ic_launcher_foreground.webp
+                        ├── ic_launcher_round.webp
+                    ├── values
+                        ├── colors.xml
+                        ├── strings.xml
+                        ├── styles.xml
+                ├── AndroidManifest.xml
+        ├── build.gradle
+        ├── debug.keystore
+        ├── proguard-rules.pro
+    ├── gradle
+        ├── wrapper
+            ├── gradle-wrapper.jar
+            ├── gradle-wrapper.properties
+    ├── .gitignore
+    ├── build.gradle
+    ├── gradle.properties
+    ├── gradlew
+    ├── gradlew.bat
+    ├── settings.gradle
+├── app
+    ├── (tabs)
+        ├── automate.tsx
+        ├── hub.tsx
+        ├── index.tsx
+        ├── iot.tsx
+        ├── remote.tsx
+        ├── settings.tsx
+        ├── _layout.tsx
+    ├── src
+        ├── crypto
+            ├── kyber.ts
+    ├── index.tsx
+    ├── onboarding.tsx
+    ├── _layout.tsx
+├── assets
+    ├── fonts
+        ├── SpaceMono-Regular.ttf
+    ├── images
+        ├── adaptive-icon.png
+        ├── app-image.png
+        ├── favicon.png
+        ├── icon.png
+        ├── partial-react-logo.png
+        ├── react-logo.png
+        ├── splash-image.png
+├── contexts
+    ├── DiagnosticsContext.tsx
+    ├── ThemeContext.tsx
+├── scripts
+    ├── reset-project.js
+├── types
+    ├── noble-post-quantum.d.ts
+    ├── react-native-webrtc.d.ts
+├── .env
+├── .gitignore
+├── app.json
+├── babel.config.js
+├── eslint.config.js
+├── expo-env.d.ts
+├── metro-config.js
+├── package-lock.json
+├── package.json
+├── README.md
+├── tsconfig.json

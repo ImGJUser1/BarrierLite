@@ -1,0 +1,6 @@
+
+# Backend builds
+backend/rustdesk-server/target/*
+backend/uploads/*
+backend/__pycache__/
+
